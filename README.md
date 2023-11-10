@@ -8,10 +8,8 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rutukansara01/) or send me an email at rutukansara25@gmail.com
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rutukansara)](https://git.io/streak-stats)
 
-
-
-[linkedin]: https://www.linkedin.com/in/rutukansara01/
 [github]: https://github.com/rutukansara/
 
 

@@ -6,7 +6,7 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 🔭 I'm passionately exploring the world of programming, one LeetCode problem at a time :D
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rutukansara01/) or send me an [Email](<a href="mailto:recipient@example.com?subject=Your%20Subject&body=Your%20Message">Click here to send an email</a>
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rutukansara01/) or send me an [Email](<a href="mailto:rutukansara25@gmail.com?subject=Your%20Subject&body=Your%20Message">Click here to send an email</a>
 )!
 
 

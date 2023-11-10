@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a Master's in Applied Data Science student.
+I'm a Master's in Applied Data Science student, currently looking for a Summer 2024 Internship.
 
 🔭 I'm passionately exploring the world of programming, one LeetCode problem at a time :D
 

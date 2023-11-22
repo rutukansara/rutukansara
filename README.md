@@ -18,7 +18,7 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 
 ### Life Motto: 
-  When the going gets tough, the tough take a break and look at cute cat pictures. 😸
+  When the going gets tough, take a break and look at cute cat pictures 😸
 
 <img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">
 

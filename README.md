@@ -14,8 +14,10 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 
 
-
-
+#### Feel free to reach out to me to discuss about:
+- Python
+- Machine Learning
+- Important cat memes
 
 
 
@@ -26,10 +28,7 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 <img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">
 
 
-#### Feel free to reach out to me to discuss about:
-- Python
-- Machine Learning
-- Important cat memes
+
 
 <!--
 **rutukansara/rutukansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,6 +19,12 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 - Machine Learning
 - Important cat memes
 
+#### Feel free to reach out to me for discussions on:
+
+- Python 🐍
+- Machine Learning 🤖
+- Important cat memes 🐾
+
 
 
 

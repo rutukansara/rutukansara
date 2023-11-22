@@ -14,6 +14,14 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 
 
+
+
+
+⚡ Fun fact: I love dogs and cats!
+
+<img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">
+
+
 <!--
 **rutukansara/rutukansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +34,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ...⚡ Fun fact: 
 -->

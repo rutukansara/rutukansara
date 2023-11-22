@@ -13,13 +13,8 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 [github]: https://github.com/rutukansara/
 
 
-
-#### Feel free to reach out to me to discuss about:
-- Python
-- Machine Learning
-- Important cat memes
-
-#### Feel free to reach out to me for discussions on:
+## Let's Chat!
+Feel free to reach out to me for discussions on:
 
 - Python 🐍
 - Machine Learning 🤖

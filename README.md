@@ -20,7 +20,7 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 
 
-## Random Facts About Me
+### Random Facts About Me
 - My spirit animal is a debugging cat with glasses 😸
 
 <img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">

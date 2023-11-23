@@ -24,7 +24,7 @@ Feel free to reach out to me for discussions on:
 
 
 #### Random Facts About Me
-- I am currently learning Spanish! 🌱
+- I am currently learning Spanish!
 - My spirit animal is a debugging cat with glasses 😸
 
 <img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">

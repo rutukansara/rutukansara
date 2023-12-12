@@ -10,7 +10,6 @@ I'm a Master's in Applied Data Science student, currently looking for a Summer 2
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rutukansara)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=rutukansara)
 
 [github]: https://github.com/rutukansara/
 

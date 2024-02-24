@@ -16,8 +16,6 @@ Feel free to reach out to me for discussions on:
 - Python 🐍
 - Machine Learning 🤖
 - Data Structures 🧱
-- Important cat memes 🐾
-
 
 
 

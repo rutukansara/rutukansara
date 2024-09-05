@@ -1,5 +1,4 @@
 # Rutu Kansara
-<img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">
 
 ### Hi there 👋
 
@@ -22,7 +21,7 @@ Feel free to reach out to me for discussions on:
 #### Random Facts About Me
 - I am learning Spanish!
 
-
+<img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">
 
 
 Looking forward to connecting and sharing insights in the coding and data science realms! 🚀

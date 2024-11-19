@@ -11,7 +11,6 @@ Feel free to explore my projects—please be kind, I promise I’m improving �
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rutukansara01/) or send me an email at rutukansara25@gmail.com
 
 
-## Let's Chat!
 Feel free to reach out to me for discussions on:
 
 - Python 🐍

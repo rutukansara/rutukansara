@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
-I'm a Master's in Applied Data Science student
+I'm a master's in data science student with a bachelor's in computer science and engineering. A good chunk of my day is spent on coursework and problem-solving on platforms like leetcode, but when I'm not coding, I love networking with people, especially those in tech communities. I enjoy attending conferences, meeting the amazing people, and learning about their growth journeys. I'm also an active member of the Society of Women Engineers and love attending events, including local chapter meetups. Outside of tech, I like reading thriller novels (plot twists are my thing!), hiking (thanks, california, for the trails :)), and learning Spanish.
 
-🔭 I'm passionately exploring the world of programming, one LeetCode problem at a time :D
+My go-to programming languages are Python and SQL, but I'm always open to learning new ones!
+
+Feel free to explore my projects—please be kind, I promise I’m improving 😁
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rutukansara01/) or send me an email at rutukansara25@gmail.com
 
@@ -15,16 +17,7 @@ Feel free to reach out to me for discussions on:
 - Python 🐍
 - Machine Learning 🤖
 - Data Structures 🧱
-  
-
-
-#### Random Facts About Me
-- I am learning Spanish!
-- My spirit animal: 😸
-
-<img width="165" alt="image" src="https://github.com/rutukansara/rutukansara/assets/149906777/8d90e1cd-c87a-4ae3-9e35-d5ca68fae82a">
-
-
+- Building Scalable Systems
 
 Looking forward to connecting and sharing insights in the coding and data science realms! 🚀
 <!--

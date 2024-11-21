@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-I'm a master's in data science student with a bachelor's in computer science and engineering. A good chunk of my day is spent on coursework and problem-solving on platforms like leetcode, but when I'm not coding, I love networking. I enjoy attending conferences, meeting amazing people, and learning about their growth journeys. I'm also an active member of the Society of Women Engineers and love attending events, including local chapter meetups. Outside of tech, I like reading thriller novels (plot twists are my thing!), hiking (thanks, california, for the trails :)), and learning Spanish.
+I'm a master's in data science student with a bachelor's in computer science and engineering. A good chunk of my day is spent on coursework and problem-solving on platforms like leetcode, but when I'm not coding, I love networking. I enjoy attending conferences, meeting amazing people, and learning about their growth journeys. I'm also an active member of the Society of Women Engineers and love attending events, including local chapter meetups. Outside of tech, I like reading thriller novels (plot twists are my thing!), hiking, and learning Spanish.
 
 My go-to programming languages are Python and SQL, but I'm always open to learning new ones!
 

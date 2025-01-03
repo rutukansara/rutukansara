@@ -6,7 +6,7 @@ I'm a master's in data science student with a bachelor's in computer science and
 
 My go-to programming languages are Python and SQL, but I'm always open to learning new ones!
 
-Feel free to explore my projects—please be kind, I promise I’m improving 😁
+Feel free to explore my projects, I promise I’m improving 😁
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rutukansara01/) or send me an email at rutukansara25@gmail.com
 
